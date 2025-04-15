@@ -26,9 +26,12 @@ Atualmente curso o ensino superior em **Análise e Desenvolvimento de Sistemas**
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=000)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=000)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=fff)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=fff)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=fff)  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=fff)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=fff)
@@ -41,7 +44,7 @@ Atualmente curso o ensino superior em **Análise e Desenvolvimento de Sistemas**
 
 ### 📌 Projetos em Destaque
 
-🔹 **[GesTock](https://github.com/seuusuario/gestock)**  
+🔹 **[GesTock](https://github.com/caua-almeida1/gestock)**  
 Sistema web de gestão e simulação voltado para alunos e professores das áreas de Logística e Administração. Desenvolvido no SENAI.  
 Tecnologias: React, Firebase, Firestore, Tailwind, Auth, Gráficos
 
