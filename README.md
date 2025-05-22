@@ -69,7 +69,7 @@ Tecnologias: React, Firebase Auth, EmailJS
 
 ### 📫 Contato
 
-- LinkedIn: [[linkedin.com/in/caua-almeida](https://linkedin.com/in/caua-almeida)](https://www.linkedin.com/in/cau%C3%A3-almeida-44866a324/)
+- LinkedIn: https://www.linkedin.com/in/cau%C3%A3-almeida-44866a324/
 - E-mail: cauagonalmeida@gmail.com
 
 ---
