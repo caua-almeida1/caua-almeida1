@@ -14,7 +14,7 @@ Sou apaixonado por tecnologia, design e desenvolvimento de soluções criativas.
 
 Passei pelo curso técnico de **Análise e Desenvolvimento de Sistemas** no **SENAI**, onde desenvolvi habilidades práticas em programação, banco de dados e projetos reais. Durante esse período, participei de iniciativas como o **Campeonato Mundial de Robótica** representando o SESI e realizei estágio na empresa **Modular Data Centers**, ampliando minha vivência com tecnologias de ponta.
 
-Atualmente curso o ensino superior em **Análise e Desenvolvimento de Sistemas** pela **UNIP** e continuo aprimorando minhas skills através de projetos autorais e estudos constantes.
+Atualmente curso o ensino superior em **Análise e Desenvolvimento de Sistemas** pela **FATEC** e continuo aprimorando minhas skills através de projetos autorais e estudos constantes.
 
 ---
 
