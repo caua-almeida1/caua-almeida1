@@ -52,7 +52,7 @@ Tecnologias: React, Firebase, Firestore, Tailwind, Auth, Gráficos
 Plataforma educacional acessível para ensino de matemática, programação e segurança digital, com recursos de inclusão e acompanhamento de progresso.
 Tecnologias: Python, JSON, bibliotecas nativas (os, psutil, datetime, hashlib).
 
-🔹 **Markfy** *(em desenvolvimento)*  
+🔹 **[Markfy](https://github.com/caua-almeida1/Markfy)** *(em desenvolvimento)*  
 Aplicativo web de agendamento e venda de produtos, com integração de autenticação por e-mail, telefone e redes sociais.  
 Tecnologias: React, Firebase Auth, EmailJS
 
