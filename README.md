@@ -60,15 +60,10 @@ Tecnologias: React, Firebase Auth, EmailJS
 
 ### 📈 Estatísticas do GitHub
 
-<p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=caua-almeida1&show_icons=true&theme=tokyonight" height="160](https://github-readme-stats.vercel.app/api?username=caua-almeida1&show_icons=true&theme=tokyonight&cache_seconds=1800)"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua-almeida1&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
 <div align="center">
   <br>
   <br>
-  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=zenburn"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caua-almeida1&theme=zenburn"/>
 </div>
 
 ---
