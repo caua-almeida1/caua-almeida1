@@ -48,9 +48,9 @@ Atualmente curso o ensino superior em **Análise e Desenvolvimento de Sistemas**
 Sistema web de gestão e simulação voltado para alunos e professores das áreas de Logística e Administração. Desenvolvido no SENAI.  
 Tecnologias: React, Firebase, Firestore, Tailwind, Auth, Gráficos
 
-🔹 **Bravo E-commerce Simulation**  
-Simulação de um sistema de e-commerce para estudo e aplicação prática de conceitos back-end e banco de dados.  
-Tecnologias: PHP, MySQL, HTML/CSS
+🔹 **EdTech Inclusiva**  
+Plataforma educacional acessível para ensino de matemática, programação e segurança digital, com recursos de inclusão e acompanhamento de progresso.
+Tecnologias: Python, JSON, bibliotecas nativas (os, psutil, datetime, hashlib).
 
 🔹 **Markfy** *(em desenvolvimento)*  
 Aplicativo web de agendamento e venda de produtos, com integração de autenticação por e-mail, telefone e redes sociais.  
