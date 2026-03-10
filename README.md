@@ -48,7 +48,7 @@ Atualmente curso o ensino superior em **Análise e Desenvolvimento de Sistemas**
 Sistema web de gestão e simulação voltado para alunos e professores das áreas de Logística e Administração. Desenvolvido no SENAI.  
 Tecnologias: React, Firebase, Firestore, Tailwind, Auth, Gráficos
 
-🔹 **EdTech Inclusiva**  
+🔹 **[EdTech Inclusiva](https://github.com/caua-almeida1/edtech)**  
 Plataforma educacional acessível para ensino de matemática, programação e segurança digital, com recursos de inclusão e acompanhamento de progresso.
 Tecnologias: Python, JSON, bibliotecas nativas (os, psutil, datetime, hashlib).
 
