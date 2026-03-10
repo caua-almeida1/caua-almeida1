@@ -65,6 +65,12 @@ Tecnologias: React, Firebase Auth, EmailJS
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua-almeida1&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
+<div align="center">
+  <br>
+  <br>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=zenburn"/>
+</div>
+
 ---
 
 ### 📫 Contato
