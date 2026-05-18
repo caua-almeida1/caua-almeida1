@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou o Cauã Gonçalves de Almeida</h1>
 
 <p align="center">
-  🚀 Desenvolvedor Full Stack | UI/UX Designer | Estudante de ADS <br/>
+  🚀 Desenvolvedor Full Stack | UI/UX Designer | Estudante de ADS pela FATEC <br/>
   🎓 Técnico em Análise e Desenvolvimento de Sistemas pelo SENAI <br/>
   📍 Santana de Parnaíba - SP
 </p>
